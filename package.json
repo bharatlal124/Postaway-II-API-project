@@ -1,5 +1,5 @@
 {
-  "name": "postaway-2",
+  "name": "postaway-II",
   "version": "1.0.0",
   "description": "Social Media Backend REST-API",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bharatlal124/Postaway-II-API-project"
   },
   "author": "Bharat",
   "license": "ISC",
