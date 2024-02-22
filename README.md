@@ -1,4 +1,4 @@
-# Postaway Social Media API
+# Postaway-II Social Media API : Project
 
 Postaway is a social media platform API built using Express.js, Node.js, MongoDB, designed to enable users to perform various social media activities such as user management, posts creation, commenting, liking, friend requests, and enhanced security features, OTP based password reset and more.
 
